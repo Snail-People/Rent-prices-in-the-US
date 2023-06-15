@@ -14,3 +14,7 @@ Data Questions:
 1. What are the cheapest and most expensive cities to live within the top 500 densely populated cities?
 2. What cities have had the most fluctuations in rent prices over the years?
 3. Are there any seasonal changes for rent that are common throughout the data?
+
+
+Tableau Dashboard:
+https://public.tableau.com/views/RentPricesDashboard/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
